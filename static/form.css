@@ -1,0 +1,10 @@
+.input-container {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.input-container input {
+  max-width: 120px;
+}
